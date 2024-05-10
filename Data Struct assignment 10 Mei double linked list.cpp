@@ -127,4 +127,6 @@ int main()
 	del(&head,1000);
 	print(head);
 	search(head,600);
+
+	return 0;
 }
