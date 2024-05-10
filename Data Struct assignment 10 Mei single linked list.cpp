@@ -119,4 +119,6 @@ int main()
 	del(&head,18);
 	print(head);
 	search(head,36);
+
+	return 0;
 }
